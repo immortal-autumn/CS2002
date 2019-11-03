@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "unistd.h": "c",
+        "wait.h": "c",
+        "types.h": "c",
+        "stdlib.h": "c",
+        "pthread.h": "c",
+        "shadow_breaker.h": "c",
+        "utils.h": "c",
+        "output_helpers.h": "c",
+        "stddef.h": "c",
+        "queue_r.h": "c"
+    }
+}
